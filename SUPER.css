@@ -1,0 +1,151 @@
+body{
+    background-color: burlywood;
+}
+
+button{
+    border-radius: 5px;
+}
+
+button:hover{
+    transform: scale(1.2);
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+.llevame {
+    border-bottom: none;
+}
+
+.lattes {
+    border-bottom: none;
+    border-top: none;
+}
+
+table {
+    
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(220, 219, 224);
+    width: 40%;
+    font-size: 20px;
+    
+}
+
+.llevame{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+
+
+
+th {
+    padding: 8px;
+    
+}
+
+.cafe:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.mi-clase {
+    
+    border-bottom-style: solid; 
+}
+
+.cafe {
+    text-align-last: left ;
+    margin-left: 60px;
+}
+
+.img1 {
+    width: 30px;
+    height: 40px;
+
+}
+
+.img2 {
+    width: 35px;
+    height: 50px;
+}
+
+.img3{
+    width: 40px;
+    height: 60px;
+}
+
+h1 {
+    padding-top: 50px;
+}
+
+h6 {
+    border-radius: 20px;
+    text-align: center;
+    background-color: hwb(249 82% 15% / 0.871); 
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 39.9%;
+}
+
+img {
+    padding-top: 20px;
+    width: 597px;
+    height: 597px;
+    display: block;
+    margin: auto;
+}
+
+
+
+div{
+
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 39.9%;
+}
+
+.Sandwiches{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: rgba(220, 219, 224);
+}
+
+.Sandwiches h4{
+    margin: 0px;
+}
+
+.Sandwiches h2{
+    margin: 0px;
+}
+
+.sw{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.promo{
+    text-align: left;
+}
+
+.promo:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
